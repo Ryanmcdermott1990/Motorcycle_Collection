@@ -1,26 +1,24 @@
-![Example 1]()
+![Example 1](https://github.com/Ryanmcdermott1990/Motorcycle_Collection/blob/main/Motorcycle_Collection.gif)
 
 #+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#
 
-# C# - AceDrones 
-This project was for the final project of the C# unit at South Metro TAFE Certificate IV in programming.
-The project was quite challenging as at that time I had less than 3 months worth of programming experience and knowledge.
+# C# - Motorcylce Collection 
+This project was an introduction to WinForms and implementing logic for each of the elements within the form. The form lets the user to create, retrieve, update and delete records and save and load by reading and writing from a .dat file. 
 
 Through completing this project I learned the following
 
-- How to use WinForms to build a UI for visualising data 
-- How to manage data locally through multi dimensional arrays 
-- How to maintain integrity of the data between the different arrays 
-- The best ways to structure a C# WinForms app by implementing logic in each of the elements on the form 
-- Implementing a custom bubble sort function to sort records 
+- How to read and write from a file using System.IO library 
+- Imlementing our own Binary and Linear search algorithms
+- Utilising our own Bubble Sort algorithm to sort the records 
+- How to maintain data integrity using correct application of data structures
 
 Things I can improve on this app are;
 
-- Bringing the app in to 21st Century
+- Styling 
 Windows forms is old and outdated, it would be better to use WPF or UWP 
 
-- Fixing Minor Bugs 
-The app needs to be unit tested, it would be great to introduce these automated tests as what I found out is that changes in one part of the code will often break other parts of the application, this was a very challenging issue to overcome with this project. 
+- Implementing Unit Tests
+Testing the app through to make sure everything is working as expected
 
 # How To Run 
 You will need to have Microsoft Visual Studio installed, (with a valid license)
